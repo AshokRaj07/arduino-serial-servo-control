@@ -70,7 +70,7 @@ The `Servo` library is included in the Arduino code:
 Add a photo of your Arduino and servo setup here.
 
 ```markdown
-![Project Setup](servo.jpg)
+![Servo Project](images/servo.jpeg)
 ```
 
 ## 🔮 Future Improvements
